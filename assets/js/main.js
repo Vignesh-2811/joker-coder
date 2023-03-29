@@ -3,7 +3,7 @@ egg
   .AddCode(
     's,o,m,e,t,h,i,n,g',
     function () {
-      window.location.href = 'https://www.google.com';
+      window.location.href = 'https://www.hackerearth.com/jokercoder';
     },
     'konami-code'
   )
@@ -17,7 +17,7 @@ egg
   .AddCode(
     's,w,e,t,h,a',
     function () {
-      alert('Swetha loves Siva Kumar!!');
+      alert('Swetha A loves Siva Kumar U !!');
     },
     'konami-code'
   )
@@ -31,7 +31,7 @@ egg
   .AddCode(
     'c,o,m,e,d,y',
     function () {
-      window.location.href = 'https://www.google.com';
+      window.location.href = 'https://www.hackerearth.com/jokercoder';
     },
     'konami-code'
   )
@@ -45,7 +45,7 @@ egg
   .AddCode(
     'J,o,k,e,r',
     function () {
-      window.location.href = 'https://www.google.com';
+      window.location.href = 'https://www.hackerearth.com/jokercoder';
     },
     'konami-code'
   )
@@ -59,7 +59,7 @@ egg
   .AddCode(
     'j,o,k,e,r',
     function () {
-      alert('HaHa!! nice try :)))');
+      window.location.href = 'https://www.hackerearth.com/jokercoder';
     },
     'konami-code'
   )
