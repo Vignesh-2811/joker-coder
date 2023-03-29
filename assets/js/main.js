@@ -15,20 +15,6 @@ egg
 
 egg
   .AddCode(
-    's,w,e,t,h,a',
-    function () {
-      alert('Swetha A loves Siva Kumar U !!');
-    },
-    'konami-code'
-  )
-  .AddHook(function () {
-    console.log('Hook called for: ' + this.activeEgg.keys);
-    console.log(this.activeEgg.metadata);
-  })
-  .Listen();
-
-egg
-  .AddCode(
     'c,o,m,e,d,y',
     function () {
       window.location.href = 'https://www.hackerearth.com/jokercoder';
